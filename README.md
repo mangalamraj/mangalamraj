@@ -1,7 +1,7 @@
 ###
 [![An image of @mangalamraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mangalamraj)](https://holopin.io/@mangalamraj)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tusharg007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+<p >
+  <img src="https://komarev.com/ghpvc/?username=mangalamraj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <!--
